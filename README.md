@@ -1,5 +1,8 @@
-# BootAnimation.zip-PREVIEWER
+# BootAnimation.zip-PREVIEWER V2
 Androidのbootanimation.zipをプレビュー再生できるPythonスクリプト
+
+(不具合が多いため現在はベータ版です。)
+(動かすことは可能ですがバグを見つけたらhigh28に教えてください。)
 
 # 機能
 Partの詳細表示
@@ -10,6 +13,8 @@ FPSの変更
 端末ごとの解像度の変更(チャレパに最適化済み)
 ドラッグアンドドロップでの再生
 キャッシュ生成でスムーズな再生
+MP4出力
+audio.wav,mp3の読み込み
 
 # インストール方法
 ### 1. Pythonライブラリのインストール
