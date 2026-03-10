@@ -1,6 +1,9 @@
 # BootAnimation.zip-PREVIEWER V3
 Androidのbootanimation.zipをプレビュー再生できるPythonスクリプト
 
+# 貢献者
+大鶴俳(Discord:Beekon0)
+
 # 機能
 Partの詳細表示
 desc.txtの読み込み
