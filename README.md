@@ -2,7 +2,7 @@
 Androidのbootanimation.zipをプレビュー再生できるPythonスクリプト
 
 # 貢献者
-大鶴俳(Discord:Beekon0)
+大鶏俳(Discord:Beekon0)
 
 # ダウンロード
 [ダウンロードはこちら](https://github.com/high28hutaba/BootAnimation.zip-PREVIEWER/raw/refs/heads/main/bootanimpreviewer.py)
