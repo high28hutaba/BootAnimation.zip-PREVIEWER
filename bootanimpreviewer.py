@@ -130,7 +130,7 @@ class PartDef:
 class BootAnimationStudio(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("BootAnim Previewer - Created By.High28(ふたば)[エラー対策版]")
+        self.setWindowTitle("BootAnim Previewer - Created By.High28(ふたば)")
         self.resize(1150, 750)
         
         self.render_id = 0
@@ -808,3 +808,4 @@ if __name__ == "__main__":
     app.installEventFilter(KeyPressFilter(window))
     window.show()
     sys.exit(app.exec())
+
